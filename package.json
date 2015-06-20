@@ -1,0 +1,19 @@
+{
+  "name": "papyrus",
+  "version": "0.0.0",
+  "description": "node books",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RameshMalla/papyrus.git"
+  },
+  "author": "Ramesh Malla",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RameshMalla/papyrus/issues"
+  },
+  "homepage": "https://github.com/RameshMalla/papyrus"
+}
